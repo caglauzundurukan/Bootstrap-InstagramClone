@@ -6,7 +6,7 @@ My instagram clone project that i created for the bootstrap course of the Patika
 -Written using HTML, CSS and Bootstrap.
 <br>
 -**Screenshot of the project:**
-[![image](https://r.resimlink.com/bkDl9Z6V1ow.png)](https://resimlink.com/bkDl9Z6V1ow)
+[![image](https://i.ibb.co/bkDl9Z6V1ow.png)]
 
 
 
